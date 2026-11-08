@@ -27,3 +27,12 @@ educa-academic-platform/
 └── assets/                      # Recursos multimedia y evidencias visuales
     └── screenshots/             # Capturas de pantalla de los prototipos
 ```
+
+---
+
+## 🚀 Visualización e Interactividad del Prototipo
+
+Para explorar la interfaz de la plataforma y probar la navegación entre los diferentes módulos, sigue estas indicaciones:
+
+1. **Punto de Entrada Unificado:** Toda la experiencia del usuario se encuentra centralizada. Para iniciar el prototipo, **debes abrir directamente el archivo `index.html`** ubicado en la raíz del proyecto desde tu navegador web preferido (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.).
+2. **Navegación Interconectada:** Al arrancar desde `index.html`, los menús laterales y superiores quedarán completamente activos. Podrás hacer clic en las opciones principales (Dashboard, Mis Cursos, Tareas, Mensajes y Perfil) para desplazarte de forma fluida entre las interfaces sin necesidad de abrir los archivos de la carpeta `pages/` individualmente.
